@@ -9,4 +9,8 @@
 # Admin page
 ![Alt text](https://github.com/pramod-talwar/Mini-Search-Engine-Like-Google-With-Chatbot/blob/main/admin.png)
 
+# Admin Dashboard
+![Alt text](https://github.com/pramod-talwar/Mini-Search-Engine-Like-Google-With-Chatbot/blob/main/admin_dashboard.png)
+
+
 
