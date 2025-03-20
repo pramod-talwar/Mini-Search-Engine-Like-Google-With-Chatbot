@@ -7,6 +7,6 @@
 ![Alt text](https://github.com/pramod-talwar/Mini-Search-Engine-Like-Google-With-Chatbot/blob/main/Homepage.png)
 
 # Admin page
-![Alt text]([https://github.com/pramod-talwar/Mini-Search-Engine-Like-Google-With-Chatbot/blob/main/Homepage.png](https://github.com/pramod-talwar/Mini-Search-Engine-Like-Google-With-Chatbot/blob/main/admin.png))
+![Alt text](https://github.com/pramod-talwar/Mini-Search-Engine-Like-Google-With-Chatbot/blob/main/admin.png)
 
 
