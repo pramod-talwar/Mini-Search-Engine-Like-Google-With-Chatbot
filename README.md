@@ -1,6 +1,6 @@
 # Mini Search Engine Like Google With Chatbot
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" alt="coding not found">
+<img align="right" width="400" src="https://github.com/pramod-talwar/Mini-Search-Engine-Like-Google-With-Chatbot/blob/main/logo.png" alt="coding not found">
 
 This project is a **mini search engine** with an integrated chatbot, allowing users to search for keywords and receive relevant results. It mimics Google-like search functionality with an interactive chatbot for enhanced user experience.
 
